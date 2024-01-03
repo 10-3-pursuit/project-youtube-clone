@@ -42,7 +42,7 @@ To complete this application, you will need to build a React application that al
 1. On the Show page, the user should be able to see a larger version of the video and be able to play it.
 1. On the Show page, a form should exist with two fields: name and comment. When a user fills out the form and submits it, A comment should appear on the page.
 1. If a user leaves either the name or comment field blank, an error message should be shown and a comment should not be created.
-1. React Router 6.2.1 should be used to navigate views/pages.
+1. React Router v6.2.1 should be used to navigate views/pages.
 1. Responsive CSS should be used. You may, optionally, use [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 ### Mastery rubric
