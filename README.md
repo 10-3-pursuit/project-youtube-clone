@@ -60,7 +60,7 @@ When you submit your pull request, _make sure to include a description of any st
 - Allow for videos to be "favorited." Favorited videos should be displayed on their own page.
 - Keep tabs on what searches have previously been made and show them below the search bar or in a Sidebar.
 - Track which Show pages have been visited and create a History page that shows all previously viewed videos.
-- Implement [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to persist data, so that the data does not disappear upon refreshing.
+- Implement [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to persist search or video data, so that the data does not disappear upon refreshing.
 - Include more user-set search criteria such as a maximum number of results or in what order the videos should be displayed.
 
 Points will be allocated in this section at the discretion of the instructor.
