@@ -42,6 +42,8 @@ To complete this application, you will need to build a React application that al
 1. On the Show page, the user should be able to see a larger version of the video and be able to play it.
 1. On the Show page, a form should exist with two fields: name and comment. When a user fills out the form and submits it, A comment should appear on the page.
 1. If a user leaves either the name or comment field blank, an error message should be shown and a comment should not be created.
+1. React Router 6.2.1 should be used to navigate views/pages.
+1. Responsive CSS should be used. You may, optionally, use [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 ### Mastery rubric
 
@@ -55,11 +57,11 @@ This section of the project measures your ability to go above and beyond in crea
 
 When you submit your pull request, _make sure to include a description of any stretch goals you implemented._ You may choose from the list below or come up with features or tasks that are more relevant to your specific implementation of the project.
 
-- Include more user-set search criteria such as a maximum number of results or in what order the videos should be displayed.
-- Keep tabs on what searches have previously been made and show them below the search bar.
 - Allow for videos to be "favorited." Favorited videos should be displayed on their own page.
+- Keep tabs on what searches have previously been made and show them below the search bar or in a Sidebar.
 - Track which Show pages have been visited and create a History page that shows all previously viewed videos.
 - Implement [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to persist data, so that the data does not disappear upon refreshing.
+- Include more user-set search criteria such as a maximum number of results or in what order the videos should be displayed.
 
 Points will be allocated in this section at the discretion of the instructor.
 
